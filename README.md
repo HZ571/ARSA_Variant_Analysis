@@ -72,20 +72,13 @@ The final model was used to generate predictions for **2,491 ARSA variants**.
 
 ```text
 ARSA_Variant_Analysis/
-├── Data/
-│   └── Raw datasets (not tracked by Git)
-│
 ├── Documents/
-│   ├── ARSA_project_report.pdf
-│   └── s26-c146-final-project-v12b.pdf
-│
 ├── Notebooks/
-│   ├── ARSA_analysis.ipynb
-│   └── s26-c146-arsa-cagi-snv-validation.py
-│
+│   └── ARSA_analysis.ipynb
 ├── Results/
 │   └── Figures/
-│
+├── src/
+│   └── arsa_analysis.py
 ├── .gitignore
 ├── README.md
 └── requirements.txt
