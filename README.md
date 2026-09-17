@@ -153,11 +153,6 @@ The Random Forest was selected for the final prediction pipeline based on the cr
 
 ### Model Comparison
 
-<!-- FIGURE PLACEHOLDER -->
-
-<!-- Add your model comparison figure here. -->
-
-<!-- Example:
 ![Model Comparison](Results/Figures/fig4_self_test_metric_table.png)
 -->
 
@@ -173,11 +168,6 @@ For additional context, the self-test analysis also compared the Random Forest a
 
 ### ROC / Precision-Recall Evaluation
 
-<!-- FIGURE PLACEHOLDER -->
-
-<!-- Add your ROC/PR figure here. -->
-
-<!-- Example:
 ![Model Evaluation](Results/Figures/fig3_selftest_roc.png)
 -->
 
@@ -191,11 +181,6 @@ Feature-importance analysis indicated that **AlphaMissense, CADD, and GERP++** w
 
 ### Feature Importance
 
-<!-- FIGURE PLACEHOLDER -->
-
-<!-- Add your feature-importance figure here. -->
-
-<!-- Example:
 ![Feature Importance](Results/Figures/fig4_feature_importance.png)
 -->
 
@@ -219,11 +204,6 @@ The resulting predictions were written to the required submission template in TS
 
 ### Prediction Distribution
 
-<!-- FIGURE PLACEHOLDER -->
-
-<!-- Add your ARSA prediction histogram here. -->
-
-<!-- Example:
 ![ARSA Prediction Distribution](Results/Figures/fig6_arsa_predictions_histogram.png)
 -->
 
